@@ -52,3 +52,22 @@ width="100%"  height="2">
 #### 🛠️ Development Tools  
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,git,docker,webpack&theme=dark)](https://github.com/shiva24082)
 
+📝 Latest Blog Updates
+<details open> <summary>Click to expand...</summary> <img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/dengxia.webp" width="350" /> <!-- BLOG-POST-LIST:START -->
+⚛️ Optimizing React Performance: Best Practices for Faster Apps
+
+🚀 Mastering Next.js: A Guide to Building Scalable Web Applications
+
+🎨 Creating Stunning UI with Tailwind CSS and React
+
+🔥 State Management in React: When to Use Context API, Redux, or Recoil?
+
+🎯 Top JavaScript Interview Questions for Frontend Developers
+
+🌐 SEO Optimization for Next.js Apps: Boost Your Rankings
+
+<!-- BLOG-POST-LIST:END -->
+For more, visit: https://www.jsmastery.pro/
+
+</details>
+
