@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=Shiva+Vinodkumar)](https://git.io/typing-svg)
+
+<img src="https://cnb.cool/66666/resource/-/git/raw/main/img/hengtiao.gif"
+width="100%"  height="2">
+
+</div>
+
 ### 🛠️ Skills
 
 #### 🚀 Programming Languages  
