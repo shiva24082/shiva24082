@@ -53,7 +53,7 @@ width="100%"  height="2">
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,git,docker,webpack&theme=dark)](https://github.com/shiva24082)
 
 
-<details open>
+<!--<details open>
 <summary>Click to expand...</summary>
 
 <div align="center">
@@ -72,7 +72,7 @@ width="100%"  height="2">
 
 </div>
 
-</details>
+</details> -->
 
 📝 Latest Blog Updates
 <details open> <summary>Click to expand...</summary> <img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/dengxia.webp" width="350" /> <!-- BLOG-POST-LIST:START -->
