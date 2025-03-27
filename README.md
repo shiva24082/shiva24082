@@ -52,15 +52,23 @@ width="100%"  height="2">
 #### 🛠️ Development Tools  
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,git,docker,webpack&theme=dark)](https://github.com/shiva24082)
 
+
 <details open>
-<summary>Click to Expand ...</summary>
+<summary>Click to expand...</summary>
 
 <div align="center">
 
+![](https://github-immortality.vercel.app/api?username=eryajf)
 
-[![GitHub Contribution Snake](https://raw.githubusercontent.com/shiva24082/shiva24082/main/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/shiva24082/shiva24082/main/github-contribution-grid-snake.svg)
+[![shiva24082 GitHub Stats](https://github-readme-stats.vercel.app/api?username=eryajf&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en)](https://github-readme-stats.vercel.app/api?username=eryajf&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en)
 
-[![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/shiva24082/shiva24082/master/profile-3d-contrib/profile-night-rainbow.svg)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en)](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en)
+
+
+
+[![Contribution Snake](https://raw.githubusercontent.com/eryajf/eryajf/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/eryajf/eryajf/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)
+
+[![GitHub Activity](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
