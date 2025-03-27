@@ -22,6 +22,15 @@ Here are some ideas to get you started:
 width="100%"  height="2">
 
 </div>
+<img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/qmsht.gif?raw=true" width="450" height="390" />
+
+### 📌 Summary  
+
+🚀 **Frontend Developer** with expertise in **React.js** and **Next.js**, specializing in building **responsive web applications** with clean, efficient code.  
+
+💡 Strong foundation in **JavaScript** and **object-oriented programming**, demonstrated through multiple **academic projects** and **self-developed applications**.  
+
+🎯 Quick learner with a **problem-solving mindset**, eager to apply my technical skills in a professional environment while contributing **fresh perspectives** and **continuous growth** to development teams.
 
 ### 🛠️ Skills
 
