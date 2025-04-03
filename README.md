@@ -74,7 +74,7 @@ width="100%"  height="2">
 
 </details> -->
 
-📝 Latest Blog Updates
+📝 Latest Post Updates
 <details open> <summary>Click to expand...</summary> <img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/dengxia.webp" width="350" /> <!-- BLOG-POST-LIST:START -->
   
 ⚛️ Optimizing React Performance: Best Practices for Faster Apps
@@ -90,7 +90,7 @@ width="100%"  height="2">
 🌐 SEO Optimization for Next.js Apps: Boost Your Rankings
 
 <!-- BLOG-POST-LIST:END -->
-For more, visit: https://www.jsmastery.pro/
+For more, visit: http://www.linkedin.com/in/shiva-vinodkumar
 
 </details>
 
