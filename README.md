@@ -53,29 +53,9 @@ width="100%"  height="2">
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,git,docker,webpack&theme=dark)](https://github.com/shiva24082)
 
 
-<!--<details open>
-<summary>Click to expand...</summary>
-
-<div align="center">
-
-![](https://github-immortality.vercel.app/api?username=eryajf)
-
-[![shiva24082 GitHub Stats](https://github-readme-stats.vercel.app/api?username=eryajf&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en)](https://github-readme-stats.vercel.app/api?username=eryajf&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en)](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en)
-
-
-
-[![Contribution Snake](https://raw.githubusercontent.com/eryajf/eryajf/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/eryajf/eryajf/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)
-
-[![GitHub Activity](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
-
-</details> -->
 
 📝 Latest Post Updates
-<details open> <summary>Click to expand...</summary> <img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/dengxia.webp" width="350" /> <!-- BLOG-POST-LIST:START -->
+<details open> <summary>Click to expand...</summary> <img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/dengxia.webp" width="350" /> 
   
 ⚛️ Optimizing React Performance: Best Practices for Faster Apps
 
@@ -89,14 +69,14 @@ width="100%"  height="2">
 
 🌐 SEO Optimization for Next.js Apps: Boost Your Rankings
 
-<!-- BLOG-POST-LIST:END -->
+
 For more, visit: http://www.linkedin.com/in/shiva-vinodkumar
 
 </details>
 
 ### 🥇 Badges
 
-<!-- my-badges start -->
+
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
@@ -137,4 +117,4 @@ For more, visit: http://www.linkedin.com/in/shiva-vinodkumar
 <a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 54 my own repositories." title="I&apos;ve starred 54 my own repositories." width="64"></a>
 <a href="my-badges/leap-day.md"><img src="https://my-badges.github.io/my-badges/leap-day.png" alt="Happy February 29th! I committed on a Leap Day!" title="Happy February 29th! I committed on a Leap Day!" width="64"></a>
 <a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
-<!-- my-badges end -->
+
